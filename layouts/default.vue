@@ -90,7 +90,6 @@
         </v-card>
 
         <v-footer fixed>
-
           <v-row class="justify-space-around">
             <v-select
               v-model="price.projectName"
