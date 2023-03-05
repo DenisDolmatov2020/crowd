@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/denis/WebstormProjects/crowd/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/denis/WebstormProjects/crowd/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
